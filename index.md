@@ -4,14 +4,17 @@ permalink: /
 
 title: WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model
 authors:
-    Songyan Zhang<sup>1*</sup>, Wenhui Huang<sup>1*</sup>, Zihui Gao<sup>2</sup>, Hao Chen<sup>2</sup>, Chen Lv<sup>1†</sup>
+    Songyan Zhang
 affiliations:
-    NTU<sup>1</sup>, ZJU<sup>2</sup>
+    NTU
 paper: https://arxiv.org/abs/2412.09951
 # video: https://www.youtube.com/results?search_query=turing+machine
 # code: 
 # data: 
 ---
+
+<!-- <sup>1*</sup>, Wenhui Huang<sup>1*</sup>, Zihui Gao<sup>2</sup>, Hao Chen<sup>2</sup>, Chen Lv<sup>1†</sup> -->
+<!-- <sup>1</sup>, ZJU<sup>2</sup> -->
 
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
