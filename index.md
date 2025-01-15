@@ -13,23 +13,6 @@ code: https://github.com/topics/turing-machines
 data: https://huggingface.co/docs/datasets
 ---
 
-<!-- <sup>1*</sup>, Wenhui Huang<sup>1*</sup>, Zihui Gao<sup>2</sup>, Hao Chen<sup>2</sup>, Chen Lv<sup>1†</sup> -->
-<!-- <sup>1</sup>, ZJU<sup>2</sup> -->
-<!-- ---
-layout: project_page
-permalink: /
-
-title: WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model
-authors:
-    Songyan Zhang
-affiliations:
-    NTU
-paper: https://arxiv.org/abs/2412.09951
-# video: https://www.youtube.com/results?search_query=turing+machine
-# code: 
-# data: 
---- -->
-
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
