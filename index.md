@@ -4,7 +4,7 @@ permalink: /
 
 title: WiseAD:Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model
 authors:
-    Songyan Zhang<!-- <sup>1*</sup>, Wenhui Huang<sup>1*</sup>, Zihui Gao<sup>2</sup>, Hao Chen<sup>2</sup>, Chen Lv<sup>1†</sup>
+    Songyan Zhang<sup>1*</sup>, Wenhui Huang<sup>1*</sup>, Zihui Gao<sup>2</sup>, Hao Chen<sup>2</sup>, Chen Lv<sup>1†</sup>
 affiliations:
     NTU<sup>1</sup>, ZJU<sup>2</sup><br>
 
