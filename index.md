@@ -9,8 +9,8 @@ affiliations:
     NTU<sup>1</sup>, ZJU<sup>2</sup>
 paper: https://arxiv.org/abs/2412.09951
 # video: https://www.youtube.com/results?search_query=turing+machine
-code: 
-data: 
+# code: 
+# data: 
 ---
 
 <!-- Using HTML to center the abstract -->
