@@ -8,7 +8,7 @@ authors:
     , Wenhui Huang<sup>1*</sup>, Zihui Gao<sup>2</sup>, Hao Chen<sup>2</sup>, Chen Lv<sup>1†</sup>
 affiliations:
     NTU<sup>1</sup>, ZJU<sup>2</sup><br>
-    <sup>*</sup>:Equal Contribution, <sup>†</sup>:Corresponding Author
+    <sup>*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
