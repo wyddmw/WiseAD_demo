@@ -27,8 +27,6 @@ performance in knowledge evaluations on both in-domain and out-of-domain dataset
     </div>
 </div>
 
----
-
 ## ✨Functions
 
 <image src="./assets/WiseAD.png"/>
