@@ -49,8 +49,7 @@ and performing knowledge-augmented trajectory planning according to the target w
 
 <image src='./assets/WiseAD_QA.gif'>
 
-## 📌 Citation
-
+## 📌Citation
 ```
 @article{zhang2024wisead,
   title={WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model},
