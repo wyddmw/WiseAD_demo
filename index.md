@@ -10,8 +10,8 @@ affiliations:
     NTU<sup>1</sup>, ZJU<sup>2</sup><br>
     <sup>*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 paper: https://arxiv.org/abs/2412.09951
+model: https://huggingface.co/wyddmw/WiseAD
 # code: https://github.com/topics/turing-machines
-# data: https://huggingface.co/docs/datasets
 ---
 
 <!-- Using HTML to center the abstract -->
