@@ -45,8 +45,9 @@ An overview of the function of our proposed WiseAD, a specialized vision-languag
 fundamental driving knowledge. Given a clip of the video sequence, our WiseAD is capable of answering various driving-related questions
 and performing knowledge-augmented trajectory planning according to the target waypoints.
 
-## ✨
+## 🗄️Demos
 
+<video src="./assets/WiseAD_QA_formal.mp4">
 
 ## 📌 Citation
 ```
@@ -57,7 +58,3 @@ and performing knowledge-augmented trajectory planning according to the target w
   year={2024}
 }
 ```
-
----
-
-
