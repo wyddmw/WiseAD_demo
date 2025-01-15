@@ -29,7 +29,15 @@ performance in knowledge evaluations on both in-domain and out-of-domain dataset
     </div>
 </div>
 
-## ✨Functions
+## ✨Framework
+
+<image src="./assets/framework.png"/>
+
+**The framework of the WiseAD**. Our model is built upon the MobileVLM and takes video sequences and textual prompts as input.
+The output for corresponding answers is unified into the linguistic expression to leverage the logical reasoning capability in vision-language
+models.
+
+## ✨Capabilities
 
 <image src="./assets/WiseAD.png"/>
 
@@ -37,10 +45,10 @@ An overview of the function of our proposed WiseAD, a specialized vision-languag
 fundamental driving knowledge. Given a clip of the video sequence, our WiseAD is capable of answering various driving-related questions
 and performing knowledge-augmented trajectory planning according to the target waypoints.
 
-## ✨Results
+## ✨
 
 
-## Citation
+## 📌 Citation
 ```
 @article{zhang2024wisead,
   title={WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model},
@@ -49,3 +57,7 @@ and performing knowledge-augmented trajectory planning according to the target w
   year={2024}
 }
 ```
+
+---
+
+
