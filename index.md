@@ -47,7 +47,10 @@ and performing knowledge-augmented trajectory planning according to the target w
 
 ## 🗄️Demos
 
-<video src="./assets/WiseAD_QA_formal.mp4">
+<video controls width="600">
+
+    <source src='./assets/WiseAD_QA_formal.mp4', type='video/mp4>
+</video>
 
 ## 📌 Citation
 ```
