@@ -10,8 +10,8 @@ affiliations:
     NTU<sup>1</sup>, ZJU<sup>2</sup><br>
     <sup>*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 paper: https://arxiv.org/abs/2412.09951
-model: https://huggingface.co/wyddmw/WiseAD
-# code: https://github.com/topics/turing-machines
+code: https://github.com/wyddmw/WiseAD
+data: https://huggingface.co/wyddmw/WiseAD
 ---
 
 <!-- Using HTML to center the abstract -->
@@ -47,6 +47,11 @@ and performing knowledge-augmented trajectory planning according to the target w
 ## 🗄️Demos
 
 <image src='./assets/WiseAD_QA.gif'/>
+
+<div align="center">
+An overview of the comparison with other VLMs on driving-specific QAs.
+</div>
+
 
 ## 📌Citation
 ```
